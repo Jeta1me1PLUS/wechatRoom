@@ -90,7 +90,7 @@ def FriendsInformation():
 # # FriendsInformation()
 # # 查询好友username对应的自己昵称
 
-# print(FriendsInformation()["@ca423b595ef76eb4077e5b3d61cfffae222f47f3a80bb066008c48aa0cccef3f"])
+# print(FriendsInformation()["@ca423b59"])
 
 # FriendsInformation_dict=FriendsInformation()
 # print(FriendsInformation_dict)
@@ -110,7 +110,7 @@ def MembersInformation(memberlist):
 #     print(friends_list)
     return friends_single
 # # 返回群某个群所有用户信息
-# Room_Members=RoomMemberList("@@54b8c51bd4f9a098edd7b40e6f8664fe04c8b261de338de09bd1a90b1de994f5")
+# Room_Members=RoomMemberList("@@54b8c51")
 # Room_Members_dict=MembersInformation(Room_Members)
 # print(Room_Members_dict)
 
